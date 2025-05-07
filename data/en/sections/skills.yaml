@@ -21,8 +21,10 @@ buttons:
   filter: "cloud/devops"
 - name: Domains
   filter: "domains"
-- name: Soft Skills
-  filter: "soft skills"
+- name: Management
+  filter: "management"
+- name: Cybersecurity
+  filter: "cybersecurity"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
@@ -39,7 +41,7 @@ skills:
   categories: ["programming", "analytics"]
   url: ""
 
-- name: Azure
+- name: Microsoft Azure
   logo: /images/sections/skills/azure.png
   summary: "Managed client resources using secure protocols."
   categories: ["cloud/devops"]
@@ -77,7 +79,137 @@ skills:
   summary: ""
   categories: ["programming"]
 
-- name: Power BI
+- name: Microsoft Power BI
   logo: /images/sections/skills/powerbi.png
   summary: ""
   categories: ["analytics"]
+
+- name: Healthcare
+  logo: /images/sections/skills/powerbi.png
+  summary: ""
+  categories: ["domains"]
+
+- name: Emergency Medical Services (EMS)
+  logo: /images/sections/skills/powerbi.png
+  summary: ""
+  categories: ["domains"]
+
+- name: Ambulatory
+  logo: /images/sections/skills/powerbi.png
+  summary: ""
+  categories: ["domains"]
+
+- name: Institutional Research
+  logo: /images/sections/skills/powerbi.png
+  summary: ""
+  categories: ["domains"]
+
+- name: IT Major Service Providers (MSP)
+  logo: /images/sections/skills/powerbi.png
+  summary: ""
+  categories: ["domains"]
+
+- name: Cybersecurity
+  logo: /images/sections/skills/powerbi.png
+  summary: ""
+  categories: ["domains"]
+
+- name: Microsoft SQL Server
+  logo: /images/sections/skills/powerbi.png
+  summary: ""
+  categories: ["analytics"]
+
+- name: DB2
+  logo: /images/sections/skills/powerbi.png
+  summary: ""
+  categories: ["analytics"]
+
+- name: Oracle
+  logo: /images/sections/skills/powerbi.png
+  summary: ""
+  categories: ["analytics"]
+
+- name: Toad
+  logo: /images/sections/skills/powerbi.png
+  summary: ""
+  categories: ["analytics"]
+
+- name: PostgreSQL
+  logo: /images/sections/skills/powerbi.png
+  summary: ""
+  categories: ["analytics"]
+
+- name: Microsoft Excel
+  logo: /images/sections/skills/powerbi.png
+  summary: ""
+  categories: ["analytics"]
+
+- name: Smartsheet
+  logo: /images/sections/skills/smartsheet.png
+  summary: ""
+  categories: ["analytics"]
+
+- name: Jira
+  logo: /images/sections/skills/Jira.svg
+  summary: ""
+  categories: ["management"]
+
+- name: Bash
+  logo: /images/sections/skills/Bash.svg
+  summary: ""
+  categories: ["programming"]
+
+- name: SAS
+  logo: /images/sections/skills/sas.png
+  summary: ""
+  categories: ["programming"]
+
+- name: Microsoft SharePoint
+  logo: /images/sections/skills/sas.png
+  summary: ""
+  categories: ["management"]
+
+- name: Microsoft Forms
+  logo: /images/sections/skills/forms.png
+  summary: ""
+  categories: ["management"]
+
+- name: Bitdefender
+  logo: /images/sections/skills/bitdefender.svg
+  summary: ""
+  categories: ["cybersecurity"]
+
+- name: Perch
+  logo: /images/sections/skills/perch.png
+  summary: ""
+  categories: ["cybersecurity"]
+
+- name: Lionguard
+  logo: /images/sections/skills/lionguard.png
+  summary: ""
+  categories: ["cybersecurity"]
+
+- name: KnowBe4
+  logo: /images/sections/skills/knowbe4.png
+  summary: ""
+  categories: ["cybersecurity"]
+
+- name: Auvik
+  logo: /images/sections/skills/auvik.png
+  summary: ""
+  categories: ["cybersecurity"]
+
+- name: Crystal Reports
+  logo: /images/sections/skills/crystal.png
+  summary: ""
+  categories: ["analytics"]
+
+- name: Webroot
+  logo: /images/sections/skills/webroot.png
+  summary: ""
+  categories: ["cybersecurity"]
+
+- name: ServiceNow
+  logo: /images/sections/skills/servicenow.png
+  summary: ""
+  categories: ["management"]
