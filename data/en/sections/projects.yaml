@@ -23,6 +23,15 @@ buttons:
 
 # your projects
 projects:
+- name: Why People Love Working Remotely
+  logo: /images/sections/projects/tableau.png
+  role: Data Analyst
+  timeline: "Jul 2024"
+  #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://public.tableau.com/app/profile/carlos.m.4312/viz/TheBenefitsofWorkingfromHome_17205447756600/Storyboard"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Using real-world sales data, I reported essential metrics such as total sales, profit, and quantity sold through Big Number (BAN) visuals accompanied by sparklines. The dashboard also includes bar charts and step lines to effectively analyze trends and subcategory performance, offering an executive and comprehensive view of the company's sales dynamics.
+  tags: ["community","narrative-analytics","trend-discovery","thought-leadership"]
+
 - name: Retail Sales Performance Dashboard
   logo: /images/sections/projects/tableau.png
   role: Business Intelligence Analyst
@@ -95,13 +104,13 @@ projects:
   tags: ["exploratory", "trend-discovery","community"]
 
 - name: Supermarket Executive Sales Performance Dashboard
-  logo: /images/sections/projects/python.png
+  logo: /images/sections/projects/powerbi.png
   role: Business Intelligence Analyst
   timeline: "2023"
   repo: https://github.com/CarlosOnDevOps/Projects/tree/main/Sales_Dashboard_Grocery_Company
   #url: ""
   summary: Transformed supermarket data into an actionable Power BI dashboard, revealing what percent of profits came from which rate of product--exposing massive inventory optimization.
-  tags: ["business","deep-dive"]
+  tags: ["business","kpi-ownership"]
 
 - name: Cybersecurity Ticket Volume
   logo: /images/sections/projects/powerbi.png
@@ -112,23 +121,23 @@ projects:
   summary: Built automated Power BI dashboards tracking critical metrics like first-response SLA compliance and ticket category trends, revealing 40% of alerts stemmed from just 3 recurring vulnerability patterns.
   tags: ["exploratory","business","kpi-ownership"]
 
-# - name: 
-#   logo: /images/sections/projects/python.png
-#   role: Data Scientist
-#   timeline: "2023"
-#   repo: 
-#   #url: ""
-#   summary: 
-#   tags: []
+- name: Visualizing US Demographics
+  logo: /images/sections/projects/tableau.png
+  role: Data Analyst
+  timeline: "2023"
+  #repo: 
+  url: "https://public.tableau.com/app/profile/carlos.m.4312/viz/VisualizingtheDemographics-ADeepDiveintoUSCounties/EXECUTIVEDASHBOARD"
+  summary: 2015 US Census data reveals interesting patterns in diversity and employment, income and poverty, and transportation habits.
+  tags: ["exploratory","community","trend-discovery"]
 
-# - name: 
-#   logo: /images/sections/projects/python.png
-#   role: Data Scientist
-#   timeline: "2023"
-#   repo: 
-#   #url: ""
-#   summary: 
-#   tags: []
+- name: Exploring Bike Share Service Data
+  logo: /images/sections/projects/r.svg
+  role: Data Scientist
+  timeline: "2023"
+  repo: https://github.com/CarlosOnDevOps/Projects/tree/main/Explore_Bikshare_Data
+  #url: ""
+  summary: Analyzed bike share service data across 3 major U.S. cities uncovering hidden insights.
+  tags: ["exploratory","deep-dive","narrative-analytics"]
 
 # - name: 
 #   logo: /images/sections/projects/python.png
@@ -140,13 +149,13 @@ projects:
 #   tags: []
 
 - name: Building a Simple Healthcare Database
-  logo: /images/sections/projects/python.png
+  logo: /images/sections/projects/PostgresSQL.svg
   role: Data Engineer
   timeline: "2023"
   repo: https://github.com/CarlosOnDevOps/Projects/tree/main/Hospital_Data_Optimization
   #url: ""
   summary: Mapped 20 years of box office data to reveal counterintuitive insights! films with Rotten Tomatoes scores between 60-75% outperform 'fresh' 90%+ films in long-term profitability.
-  tags: ["exploratory","complex-modeling"]
+  tags: ["deep-dive","exploratory","complex-modeling"]
 
 - name: Toha
   logo: /images/sections/projects/toha.png

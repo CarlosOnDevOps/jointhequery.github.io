@@ -141,9 +141,9 @@ degrees:
   #   url: "#"
   extracurricularActivities: #(optional)
   - Created a Discord group for our degree program to help myself and other peers collaborate on data analytics and projects.
-  customSections: #(optional)
-    - name: Thesis test
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  # customSections: #(optional)
+  #   - name: Thesis
+  #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     # - name: Supervisor
     #   content: Fusce eu augue ut odio porttitor pulvinar.
 - name: AAS in Network Technology
@@ -159,6 +159,68 @@ degrees:
   #   scale: GPA
   #   achieved: 5
   #   outOf: 5
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Introduction to Computing
+      achieved: 3
+      outOf: 3
+    - name: Technical Customer Service
+      achieved: 3
+      outOf: 3
+    - name: Fundamentals of Network Technologies
+      achieved: 3
+      outOf: 3
+    - name: Introduction to PC Operating Systems
+      achieved: 3
+      outOf: 3
+    - name: Personal Computer Hardware
+      achieved: 3
+      outOf: 3
+    - name: Fundamentals of Cloud Computing
+      achieved: 3
+      outOf: 3
+    - name: Network+
+      achieved: 3
+      outOf: 3
+    - name: Intermediate PC Operating Systems
+      achieved: 3
+      outOf: 3
+    - name: Fundamentals of Information Security
+      achieved: 3
+      outOf: 3
+    - name: Contemporary Mathematics (Quantitative Reasoning)
+      achieved: 3
+      outOf: 3
+    - name: Composition 1
+      achieved: 3
+      outOf: 3
+    - name: CCNA 1 -- Introduction to Networks
+      achieved: 3
+      outOf: 3
+    - name: Implementing and Supporting Servers
+      achieved: 3
+      outOf: 3
+    - name: Information Technology Security
+      achieved: 3
+      outOf: 3
+    - name: Business and Professional Communication
+      achieved: 3
+      outOf: 3
+    - name: Public Speaking
+      achieved: 3
+      outOf: 3
+    - name: CCNA 2 -- Switching, Routing and Wireless Essentials
+      achieved: 3
+      outOf: 3
+    - name: Internship -- Computer Information Sciences, General
+      achieved: 3
+      outOf: 3
+    - name: Introduction to Scripting Languages
+      achieved: 3
+      outOf: 3
   extracurricularActivities: #(optional)
   - I used to be a Cisco networking & routing teaching assistant (tutor) where I collaborated with the late Bill Byrd tutoring Cisco routing and switching.
   - I also collaborated with the college as part of a student program tutoring intro-level physics.

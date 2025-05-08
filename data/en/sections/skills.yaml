@@ -43,6 +43,12 @@ skills:
   categories: ["core-analytics"]
   url: ""
 
+- name: R
+  logo: /images/sections/skills/R.svg
+  summary: "Explored bicycle ride service data across 3 U.S. cities."
+  categories: ["core-analytics"]
+  url: ""
+
 - name: Microsoft Azure
   logo: /images/sections/skills/azure.png
   summary: "Secured and managed cloud resources for HIPAA-compliant healthcare analytics."
