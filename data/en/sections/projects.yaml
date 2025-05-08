@@ -103,41 +103,41 @@ projects:
   summary: Transformed supermarket data into an actionable Power BI dashboard, revealing what percent of profits came from which rate of product--exposing massive inventory optimization.
   tags: ["business","deep-dive"]
 
-- name: 
-  logo: /images/sections/projects/python.png
-  role: Data Scientist
-  timeline: "2023"
-  repo: 
+- name: Cybersecurity Ticket Volume
+  logo: /images/sections/projects/powerbi.png
+  role: Data Analyst
+  timeline: "2022"
+  repo: https://github.com/CarlosOnDevOps/Projects/tree/main/InfoSec_Dept_KPI_Analysis
   #url: ""
-  summary: 
-  tags: []
+  summary: Built automated Power BI dashboards tracking critical metrics like first-response SLA compliance and ticket category trends, revealing 40% of alerts stemmed from just 3 recurring vulnerability patterns.
+  tags: ["exploratory","business","kpi-ownership"]
 
-- name: 
-  logo: /images/sections/projects/python.png
-  role: Data Scientist
-  timeline: "2023"
-  repo: 
-  #url: ""
-  summary: 
-  tags: []
+# - name: 
+#   logo: /images/sections/projects/python.png
+#   role: Data Scientist
+#   timeline: "2023"
+#   repo: 
+#   #url: ""
+#   summary: 
+#   tags: []
 
-- name: 
-  logo: /images/sections/projects/python.png
-  role: Data Scientist
-  timeline: "2023"
-  repo: 
-  #url: ""
-  summary: 
-  tags: []
+# - name: 
+#   logo: /images/sections/projects/python.png
+#   role: Data Scientist
+#   timeline: "2023"
+#   repo: 
+#   #url: ""
+#   summary: 
+#   tags: []
 
-- name: 
-  logo: /images/sections/projects/python.png
-  role: Data Scientist
-  timeline: "2023"
-  repo: 
-  #url: ""
-  summary: 
-  tags: []
+# - name: 
+#   logo: /images/sections/projects/python.png
+#   role: Data Scientist
+#   timeline: "2023"
+#   repo: 
+#   #url: ""
+#   summary: 
+#   tags: []
 
 - name: Building a Simple Healthcare Database
   logo: /images/sections/projects/python.png
